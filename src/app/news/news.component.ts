@@ -15,7 +15,7 @@ export class NewsComponent implements OnInit {
 
     ngOnInit(): void {
         // Init your component properties here.
-        this.news.crear('New 1 Angular update 10');
+        this.news.crear('New 1 Angular update to 10');
         this.news.crear('New 2 App for Iphone and Android');
         this.news.crear('New 3 Nodejs');
         this.news.crear('New 4 MongoDB');
